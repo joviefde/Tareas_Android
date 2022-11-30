@@ -1,7 +1,7 @@
 # Tareas_Android
 Aquí veremos la resolución de 3 tipos de ejercicios relacionados con la herramienta Android Studio en la cuál podremos implementar distintas soluciones para tener un menú con : horario(multi-lenguaje), debe contener un listado de eventos y un listado con las farmacias funcionales en la BBDD pública de Zaragoza
 
-------------------------------------------------------------------------ENUNCIADO----------------------------------------------------------------------------------------
+------------------------------------------------------------------------ENUNCIADO-----------------------------------------------------------------------------------
 1. Realiza una aplicación con 3 opciones (tal y como se muestra en el diseño adjunto). El usuario podrá crear su propio horario introduciendo para cada asignatura los días y horas en las que se imparte, podrá consultar el horario completo para un día dado y también tendrá acceso rápido a consultar qué asignatura se está impartiendo ahora mismo (según hora y fecha del móvil de dicho usuario)
 
 2. Realiza la siguiente aplicación para mantener un listado de eventos con soporte para español e inglés
