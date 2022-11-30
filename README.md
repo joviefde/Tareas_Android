@@ -7,4 +7,5 @@ Aquí veremos la resolución de 3 tipos de ejercicios relacionados con la herram
 2. Realiza la siguiente aplicación para mantener un listado de eventos con soporte para español e inglés
 
 3. Realiza una aplicación que liste todas las farmacias de Zaragoza utilizando para ello los datos abiertos que proporciona el Ayuntamiento de Zaragoza. En la lista se mostrará un icono (el mismo para todas), el nombre y el teléfono. Cuando el usuario seleccione una de las farmacias la aplicación cargará otra Activity donde se mostrará un mapa marcando la ubicación de dicha farmacia. Te recomiendo que para el uso de la base de datos te revises este codelabs (https://firebase.google.com/codelabs/firebase-android#0)
+4. 
 ---------------------------------------------------------------ENUNCIADO--------------------------------------------------------------------------------
